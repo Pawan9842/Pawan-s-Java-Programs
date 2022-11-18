@@ -4,7 +4,7 @@ public class A5 {
 
 	public static void main(String[] args) {
 		
-		String s1="Rameshwar";
+		String s1="Nitishaaaaaaaa";
 		
 		char [] a=new char[20];
 		try {

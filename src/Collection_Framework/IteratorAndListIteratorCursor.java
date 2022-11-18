@@ -15,7 +15,7 @@ public class IteratorAndListIteratorCursor {
 		l.add("Pawan");
 		System.out.println(l);
 		System.out.println("===============================================");
-		
+		                                                                      
 		Iterator itr=l.iterator();  //Iterator is an Interface Cursor
 		while(itr.hasNext()) {   //hasNext() returns boolean value  and checks if there 
 			                  // is any element or not if true then goes inside while

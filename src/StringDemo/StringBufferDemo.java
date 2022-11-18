@@ -5,7 +5,7 @@ public class StringBufferDemo {
 	public static void main(String[] args) {
 		
 		String s1="Pawan";
-		String s2="Rachel";
+		String s2="Jennifer";
 		System.out.println(s1.concat(s2));
 		
 		System.out.println(s1);
@@ -17,7 +17,7 @@ public class StringBufferDemo {
 		//	System.out.println(sb.append("Gupta"));
 		System.out.println(sb2);   
 		
-		StringBuffer sb3=new StringBuffer(1000);
+		StringBuffer sb3=new StringBuffer();
 		
 		sb3.append("Nitisha");
 		System.out.println(sb3.capacity());   //16+8
